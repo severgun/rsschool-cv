@@ -1,0 +1,1 @@
+<https://severgun.github.io/rsschool-cv/cv>
