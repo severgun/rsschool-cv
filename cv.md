@@ -38,3 +38,8 @@ After graduation(Information systems and technologies at SPbSTU) I started my ca
 * Object-Oriented Programming in C++ by Robert Lafore
 * Grokking Algorithms by Aditya Bhargava
 * RS School Course «JavaScript/Front-end. Stage 1» (in progress)
+
+## Languages:
+* Russian - Native
+* Ukranian - Basic
+* English - Did not test for a grade. I can read books, docs, articles mostly without translator, same for speech.
