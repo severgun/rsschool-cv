@@ -8,6 +8,7 @@
 **Discord:** [Sergey Vergun(@severgun)](https://discordapp.com/users/155041146752598026)\
 **GitHub:** [severgun](https://github.com/severgun)
 
+----
 ## About me:
 After graduation(Information systems and technologies at SPbSTU) I started my career in IT as Junior Linux System Administrator at lab which had just freshly build HPC cluster. Now I'm still work at this lab, but as Lead HPC Administrator. That were pretty stable years but now I want to try myself in software development. I got some taste of being developer by making game mods for ARMA game series. Diving deeply, I found, that I really love to create new stuff and see result of my work. Linux administration does not give me such emotions, so I need to change my life. I already have some ideas for pet-projects, that I would like to implement, but they require more skills that I have, so I want to become fullstack developer. Hope RS School will help me with that. After finishing Front-end course I will try to join NodeJS course and maybe try to go into Rust,C++ world.
 
@@ -19,6 +20,13 @@ After graduation(Information systems and technologies at SPbSTU) I started my ca
 * Linux (RHEL-based, Debian-based distros)
 * DHCP, DNS, xCAT, SLURM, Moab HPC Suite admin
 * SQF Scripting Language (ARMA series games)
+
+## Code example:
+```javascript
+function multiply(a, b) {
+  return a * b;
+}
+```
 
 ## Experience:
 * Linux Administrator
