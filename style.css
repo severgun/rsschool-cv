@@ -448,3 +448,14 @@ footer {
 .footer-text {
   padding-top: 1.2rem;
 }
+
+nav {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 15rem;
+}
+
+nav ul {
+  line-height: 2;
+  list-style: none;
+}
