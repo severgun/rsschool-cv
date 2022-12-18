@@ -429,6 +429,11 @@ aside {
   height: 64rem;
 }
 
+.contacts-list {
+  line-height: 2;
+  list-style: none;
+}
+
 footer {
   display: flex;
   width: 64rem;
