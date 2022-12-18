@@ -389,26 +389,16 @@ p {
   line-height: 2;
 }
 
-a {
-  text-decoration: none;
-  color: var(--light-color);
-}
-
-/* .page-wrapper {
-  max-width: 160rem;
-  margin: 0 auto;
-} */
-
-/* .content-wrapper {
-  padding-left: 72rem;
-} */
-
 .wrapper-content {
   display: flex;
   flex-direction: column;
   justify-content: center;
   max-width: 96rem;
   padding-left: 5rem;
+}
+
+.wrapper-content a {
+  color: var(--medium-color);
 }
 
 .wrapper-side {
@@ -418,6 +408,11 @@ a {
   max-width: 64rem;
   color: var(--light-color);
   background-color: var(--main-color);
+}
+
+.wrapper-side a {
+  text-decoration: none;
+  color: var(--light-color);
 }
 
 aside {
